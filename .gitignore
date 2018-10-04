@@ -1,5 +1,6 @@
 
 # Added by parksurk
+.DS_Store
 data/mnist
 examples/data/mnist
 examples/graphs/*
